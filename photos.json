@@ -1,0 +1,37 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "Mickey",
+    "url": "https://i.pinimg.com/236x/ef/c5/e2/efc5e2bc20c47ed05c2bd529c62c97cc.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "Minnie",
+    "url": "https://i2.wp.com/p1.hiclipart.com/preview/559/262/539/iconos-y-pastel-cute-lazo-minnie-3angelxkagura-png-clipart.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "Sirenita",
+    "url": "https://3.bp.blogspot.com/-7WvQGOIpbTQ/W1byliIc1kI/AAAAAAAAmT0/tuo6Z1cBP-sew_rjB3Q8DiZMfOfYyzYwwCLcBGAs/s1600/5a4bc3262da5ad73df7efe5b.png",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "Pumba",
+    "url": "https://i.pinimg.com/736x/d3/e4/21/d3e421a0f53429b7423a72d80c71da1d.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "Rapuncel",
+    "url": "https://i.pinimg.com/736x/1b/35/9f/1b359f42b06f6e4a4678ce4eef1cbba0.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  }
+]
